@@ -1,4 +1,45 @@
-# 💫 About Me:
+# Hi, I'm Pranav Gadade 👋
+
+Full Stack Developer with 1+ year of experience building real-world
+web applications at **LiveGene Lab**. I specialize in React.js, Java,
+and SQL, and I love crafting scalable, responsive solutions.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Java · JavaScript · Python · SQL  
+**Frontend:** React.js · Angular · Node.js · HTML · CSS  
+**Tools:** Git · Docker · REST APIs · Postman · MySQL  
+**Exploring:** Generative AI  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Sapra Mart](https://github.com/prnv2003) | Full-stack e-commerce app | React.js, REST API |
+| [ReferHack](https://github.com/prnv2003) | Referral-based platform | JS, Node.js, SQL |
+| [LiveGene Lab](https://github.com/prnv2003) | Production client work | React.js, APIs |
+
+---
+
+## 📊 GitHub Stats
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prnv2003&show_icons=true&theme=default)
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-gadade/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/pranavgadade08/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prnv2003)
+
+---
+
+*"Building products that solve real problems."*# 💫 About Me:
 🔭 I’m currently working on <br>
 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>
