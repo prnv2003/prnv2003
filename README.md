@@ -38,7 +38,7 @@ and SQL, and I love crafting scalable, responsive solutions.
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  /> 
   <img width="12" />  -->
-  <img src="https://icons8.com/icons/set/angular-logo" height="30" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  />
   <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
   <img width="12" /> -->
