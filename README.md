@@ -8,14 +8,80 @@ and SQL, and I love crafting scalable, responsive solutions.
 
 ## 🛠 Tech Stack
 
-**Languages:** Java · JavaScript · Python · SQL  
+<!-- **Languages:** Java · JavaScript · Python · SQL  
 **Frontend:** React.js · Angular · Node.js · HTML · CSS  
 **Tools:** Git · Docker · REST APIs · Postman · MySQL  
-**Exploring:** Generative AI  
+**Exploring:** Generative AI  -->
 
-![Java]([https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white](https://camo.githubusercontent.com/023380272dd1bc56194dc6f0a7d2b48360c1f9f66e70ea6c1b81ee60b4b58ea8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661)) 
-[!Python](https://camo.githubusercontent.com/066eb580e6a825850f05512b56811f3879dac7184e5169de6a23c2a7e70c9d2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667)
-[!C](https://camo.githubusercontent.com/56931130a65311bc0c04a4bd2ba02fbcdcffae81b47b0604987427d0c8d841f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  /> 
+  <img width="12" />  -->
+  <img src="https://icons8.com/icons/set/angular-logo" height="30" alt="angular logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
+  <img width="12" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=prometheus" height="30" alt="prometheus logo"  />
+  <img width="12" /> -->
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" /> -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="30" alt="hibernate logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
+  <img width="12" /> -->
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=regex" height="30" alt="regex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="30" alt="apachemaven logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  /> -->
+</div>
 
 ---
 
@@ -23,9 +89,9 @@ and SQL, and I love crafting scalable, responsive solutions.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Sapra Mart](https://github.com/prnv2003) | Full-stack e-commerce app | React.js, REST API |
-| [ReferHack](https://github.com/prnv2003) | Referral-based platform | JS, Node.js, SQL |
-| [LiveGene Lab](https://github.com/prnv2003) | Production client work | React.js, APIs |
+| [Sapra Mart](https://github.com/prnv2003/SAPRA-Mart--Online_Grocery_Market_.git) | Full-stack e-commerce app | React.js, REST API |
+| [ReferHack](https://play.google.com/store/apps/details?id=com.referral.referhack&pcampaignid=web_share) | Referral-based platform | JS, Node.js, SQL |
+| [LiveGene Lab](https://www.linkedin.com/company/livegene-lab/posts/?feedView=all) | Production client work | React.js, APIs |
 
 ---
 
@@ -47,7 +113,7 @@ and SQL, and I love crafting scalable, responsive solutions.
 
 *"Building products that solve real problems."*
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,4 +144,4 @@ and SQL, and I love crafting scalable, responsive solutions.
 ---
 [![](https://visitcount.itsvg.in/api?id=prnv2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
