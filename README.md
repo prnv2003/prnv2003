@@ -13,6 +13,10 @@ and SQL, and I love crafting scalable, responsive solutions.
 **Tools:** Git · Docker · REST APIs · Postman · MySQL  
 **Exploring:** Generative AI  
 
+![Java]([https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white](https://camo.githubusercontent.com/023380272dd1bc56194dc6f0a7d2b48360c1f9f66e70ea6c1b81ee60b4b58ea8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661)) 
+[!Python](https://camo.githubusercontent.com/066eb580e6a825850f05512b56811f3879dac7184e5169de6a23c2a7e70c9d2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667)
+[!C](https://camo.githubusercontent.com/56931130a65311bc0c04a4bd2ba02fbcdcffae81b47b0604987427d0c8d841f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63)
+
 ---
 
 ## 🚀 Featured Projects
@@ -36,23 +40,14 @@ and SQL, and I love crafting scalable, responsive solutions.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-gadade/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/pranavgadade08/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prnv2003)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranav_gadade_)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavgadade08@gmail.com) 
 
 ---
 
-*"Building products that solve real problems."*# 💫 About Me:
-🔭 I’m currently working on <br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pranav_gadade_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-gadade/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavgadade08@gmail.com) 
+*"Building products that solve real problems."*
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
