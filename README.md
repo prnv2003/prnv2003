@@ -109,7 +109,6 @@ and SQL, and I love crafting scalable, responsive solutions.
 
 ![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prnv2003&show_icons=true&theme=default)
 
----
 
 ---
 
